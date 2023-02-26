@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nqtimoguing the webdevwanderer.
 - 👀 I’m interested in Web Development and Programming.
-- 🌱 I’m currently self-learning HTML, CSS, Javascript, C++ and Java.
+- 🌱 I’m currently self-learning HTML, CSS, Javascript, C++, Java, Python and C#.
 - 💞️ I’m looking forward to collaborate on web development projects.
 - 📫 How to reach me ...
 
